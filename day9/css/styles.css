@@ -180,9 +180,6 @@ input[type=submit]:hover {
     font-family: cursive;
       text-align: center;
   }
-  .content2index {
-    
-  }
   /* Clear floats after the columns */
   .row:after {
     content: "";
