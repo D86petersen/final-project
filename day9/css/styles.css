@@ -114,11 +114,8 @@ input[type=submit]:hover {
 }
 .imagebackground {
   background-image: url("../img/background.jpg");
-  /* background-repeat: no-repeat; */
   height: 100vh;
   width: 100%;
-  /* background-size: cover; */
-
 }
 .container1 {
   float:left;
@@ -180,6 +177,24 @@ input[type=submit]:hover {
     font-family: cursive;
       text-align: center;
   }
+  /* news page */
+  .imgcontainer1 {
+    margin-left:50px;
+    font-family: cursive;
+    text-align: center;
+  }
+  .imgcontainer1 img {
+    float: left;
+  }
+  .imgcontainer2 {
+    margin-right: 50px;
+    font-family: cursive;
+    text-align: center;
+  }
+  .imgcontainer2 img {
+    float: right;
+  }
+
   /* Clear floats after the columns */
   .row:after {
     content: "";
